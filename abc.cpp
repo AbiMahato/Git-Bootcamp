@@ -22,5 +22,11 @@ int main()
 	{
 		printf("%d is not armstrong",b);
 	}
-	return 0;
+	
+	
+	
+	printf("Enter to numbers: ");
+	scanf("%d%d",&a,&b);
+		return 0;
+	
 }
